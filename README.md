@@ -24,7 +24,7 @@ It's highly recommended to use Realtime Colors since this project was originally
 
 1. Clone the project
 ```
-git clone 
+git clone https://github.com/Dedo-Finger2/create-figma-variables-python.git
 ```
 2. Install the dependencies
 ```
